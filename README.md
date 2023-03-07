@@ -1,2 +1,0 @@
-# dkc
-first projt.
